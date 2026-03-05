@@ -80,7 +80,7 @@ sign-language-app/
 - The image preprocessing pipeline includes grayscale conversion, Gaussian blur, and JPEG compression to match training data.  
 - If `sign_language_model.keras` is missing, the app will fall back to generating simulated predictions for demo purposes.  
 - Class labels are dynamically loaded from `class_indices.json`.
-
+- created by akashthakur Class labels are dynamically loaded from `class_indices.json`.
 ---
 
 ## Troubleshooting
